@@ -1,0 +1,12 @@
+{
+    "entry": "Zoom.js",
+    "name": "Zoom",
+    "type": "lse-quickjs",
+    "author": "星雲Nebulae",
+    "version": "1.0.0",
+    "dependencies": [
+        {
+            "name": "legacy-script-engine-quickjs"
+        }
+    ]
+}
